@@ -1,0 +1,42 @@
+.display-4 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.lead {
+    font-family: 'Cookie', cursive;
+    text-align: center;
+}
+
+#jumbotron {
+
+    background-image: url("https://github.com/amirahislam/burger/blob/master/public/assets/img/burger_blog.png?raw=true");
+    /* background-color: #cccccc; */
+
+}
+
+body {
+    background-color: #92e5c7;
+
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Cookie', cursive;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20pt;
+}
+
+#form {
+    padding-left: 500px;
+    font-family: 'Great Vibes', cursive;
+
+}
+
+#subfont {
+    font-size: 20pt;
+}
